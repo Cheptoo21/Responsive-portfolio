@@ -809,11 +809,11 @@ img {
 }
 
 .contact__information {
-  display: inline-block;
+  display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: var(--mb-2);
-  margin-left: 25rem;
+  margin-left: .75rem;
 }
 
 .contact__icon {
